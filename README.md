@@ -1,7 +1,7 @@
 # Matter, Mind and Models
 article by Marvin Minsky
 
-![alt text]("https://github.com/mrmartin/Matter-Mind-and-Models/raw/master/great.png" "Original and Result")
+![alt text](https://raw.githubusercontent.com/mrmartin/Matter-Mind-and-Models/master/great.png "Original and Result")
 
 This repository contains a latex re-write of the original article from 1965. I created this because all available sources are low quality and difficult to read, while the content is as relevant as ever in today's research.
 
